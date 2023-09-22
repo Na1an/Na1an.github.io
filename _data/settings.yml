@@ -16,10 +16,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/Na1an'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yuchen-bai-4aa318ba/'}
+- {icon: 'twitter', link: 'https://github.com/Na1an'}
+- {icon: 'instagram', link: 'https://github.com/Na1an'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Yuchen BAI', title: 'PhD student', department: 'ED MSTII', institution: 'Grenoble Alpes University', institution_address: 'Grenoble, France', email: 'yuchen.bai@inria.fr', image: 'assets/img/contact.jpg'}
